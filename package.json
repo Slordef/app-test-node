@@ -1,0 +1,22 @@
+{
+  "name": "app-test-node",
+  "version": "1.0.0",
+  "description": "Just an api with node express for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slordef/app-test-node.git"
+  },
+  "author": "Slordef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slordef/app-test-node/issues"
+  },
+  "homepage": "https://github.com/Slordef/app-test-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
