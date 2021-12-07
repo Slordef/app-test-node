@@ -1,7 +1,7 @@
 # app-test-node
 Just an api for test
 
-```Javascript C#
+```Javascript diff
 function () {
 + let test = 'test'
 - let value = 'value'
