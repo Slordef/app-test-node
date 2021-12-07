@@ -1,9 +1,8 @@
 # app-test-node
 Just an api for test
 
-```Javascript diff
+```Javascript SQL
 function () {
-+ let test = 'test'
-- let value = 'value'
+  let test = 'SELECT * FROM test'
 }
 ```
