@@ -1,7 +1,7 @@
 # app-test-node
 Just an api for test
 
-```C# Javascript
+```Javascript C#
 function () {
 + let test = 'test'
 - let value = 'value'
