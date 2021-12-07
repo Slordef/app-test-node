@@ -1,7 +1,7 @@
 # app-test-node
 Just an api for test
 
-```diff-js
+```js diff
 function () {
 + let test = 'test'
 - let value = 'value'
