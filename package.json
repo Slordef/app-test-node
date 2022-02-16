@@ -18,5 +18,11 @@
   "homepage": "https://github.com/Slordef/app-test-node#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset": "^1.1.7",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^27.5.1"
   }
 }
